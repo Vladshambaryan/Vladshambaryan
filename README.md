@@ -34,10 +34,10 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
 </p>
 
-<img src="https://github.com/VladSuskiy/VladSuskiy/blob/main/Images/bug-acadgild-bug.gif">
+<img src="https://images.app.goo.gl/U9BbqMDrUZ6k45cA9">
        
 </div>
 
        
-</div>
+
 
