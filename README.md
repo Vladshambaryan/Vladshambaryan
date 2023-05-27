@@ -2,6 +2,14 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software QA Automation Engineer</h3>
+
+My LinkedIn profile:
+
+[![Linkedin Badge](https://img.shields.io/badge/-vladsuskiy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlad-shambaryn/)](https://www.linkedin.com/in/vlad-shambaryn/)
+
+
+
+
 <p>
 Languages and Tools I use :
 <div align="center">
