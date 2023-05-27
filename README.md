@@ -34,7 +34,7 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
 </p>
 
-<img src="https://www.google.com/imgres?imgurl=https://i.imgur.com/olnQ5VK.gif&tbnid=G7YDJfyLBezg9M&vet=1&imgrefurl=https://clockwise.software/blog/manual-testing-vs-automation-testing/&docid=A_tNoamvP8XZMM&w=731&h=359&source=sh/x/im/1">
+<img src="<div class="tenor-gif-embed" data-postid="19255567" data-share-method="host" data-aspect-ratio="1.05611" data-width="100%"><a href="https://tenor.com/view/gaming-hardcore-god-doubledare-double-gif-19255567">Gaming Hardcore GIF</a>from <a href="https://tenor.com/search/gaming-gifs">Gaming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
        
 </div>
 
