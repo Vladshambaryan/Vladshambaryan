@@ -34,9 +34,6 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
 </p>
 
-<img src="<div class="tenor-gif-embed" data-postid="19255567" data-share-method="host" data-aspect-ratio="1.05611" data-width="100%"><a href="https://tenor.com/view/gaming-hardcore-god-doubledare-double-gif-19255567">Gaming Hardcore GIF</a>from <a href="https://tenor.com/search/gaming-gifs">Gaming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
-       
-</div>
 
        
 
