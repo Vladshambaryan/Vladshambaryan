@@ -5,7 +5,7 @@
 
 My LinkedIn profile:
 
-[![Linkedin Badge](https://img.shields.io/badge/-VLAD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlad-shambaryn/)](https://www.linkedin.com/in/vlad-shambaryn/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlad-shambaryn/)](https://www.linkedin.com/in/vlad-shambaryn/)
 
 
 
