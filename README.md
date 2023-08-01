@@ -36,5 +36,18 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 
 
        
-
-
+const QA_Engineer = {
+    "Automation": {
+        "code": "Javascript, HTML, CSS, Python, SQL",
+        "tools": {
+            "tools": "Jira, Slack, Node, GitHub, Selenium, Postman_API, Visual_Studio, Pycharm",
+            "responsibilities": "Requirement analysis", "Test planning", "Test case design and development",
+            },
+        "My_skills": "automated and manual tests etc..",
+        "Recent_project": {
+            "Tesla.com"
+            },
+        "mentor": "SergioUS",
+        },
+   }  
+   console.log(QA_Engineer)
